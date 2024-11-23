@@ -1,3 +1,6 @@
+/* Was coded in eclipse- may need 
+package Project1;
+*/
 import java.util.Arrays;
 
 /**
